@@ -1,2 +1,2 @@
-# shell-scripts
-A collection of shell and bash scripts.
+# Assorted Scripts
+A collection of one-off scripts for different tasks.
